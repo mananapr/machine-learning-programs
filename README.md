@@ -31,3 +31,6 @@ Linear Regression Algorithm from Scikit Learn used Google Stock Data
 
 - `svm.py`
 A Support Vector Machine written from Scratch
+
+## Credits
+[Harrsion](https://github.com/Sentdex)
