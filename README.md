@@ -1,7 +1,7 @@
-# machine-learning-programs
+# Machine Learning Programs
 Programs I worte while learning Machine Learning
 
-## Programs
+## Program Descriptions
 - `breast_cancer.py`
 Classifies if Breast Cancer is malignant or benign using the K-Nearest Neighbours Algorithm from Scikit-Learn
 
